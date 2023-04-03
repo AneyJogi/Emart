@@ -6,7 +6,7 @@ public class Example {
 
 			@Test(groups = "smoke")
 			public void data1() {
-				System.out.println("krishnamoorthi");
+				System.out.println("testyantra.com");
 			}
 			@Test(groups = "regression")
 			public void data2() {
