@@ -7,7 +7,7 @@ public class TS_01Test {
 	@Test(groups="smoke")
 	public void sampleTest1()
 	{
-		System.out.println("test script 01");
+		System.out.println("Krishna");
 	}
 	
 	@Test
