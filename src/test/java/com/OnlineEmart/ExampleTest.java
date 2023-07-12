@@ -10,6 +10,6 @@ public class ExampleTest {
 	}
 	@Test(groups = "regression")
 	public void data2() {
-		System.out.println("regression 1 executed");
+ 		System.out.println("regression 1 executed");
 	}
 }
