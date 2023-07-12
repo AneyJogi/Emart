@@ -8,6 +8,7 @@ public class kalaTest {
 	public void kalaMethodTest()
 	{
 		System.out.println("Kala1");
+		
 	}
 	
 	
